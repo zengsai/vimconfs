@@ -7,3 +7,6 @@
 [submodule "bundle/lustyexplorer"]
 	path = bundle/lustyexplorer
 	url = git@github.com:vim-scripts/LustyExplorer.git
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = git@github.com:scrooloose/nerdcommenter.git
