@@ -51,6 +51,7 @@ filetype plugin indent on
 " set background=dark
 set background=light
 "colorscheme solarized
+colorscheme Tomorrow
 
 set encoding=utf-8
 set fileencoding=utf-8
